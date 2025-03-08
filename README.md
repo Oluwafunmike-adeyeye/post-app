@@ -6,7 +6,7 @@
 
 <p>Clone the Repository:</p>
 <pre><code>git clone  https://github.com/Oluwafunmike-adeyeye/post-app.git
-cd react-crud-app</code></pre>
+cd post-app</code></pre>
 
 <p>Install Dependencies:</p>
 <pre><code>npm install</code></pre>
@@ -40,13 +40,6 @@ cd react-crud-app</code></pre>
   <li><strong>GET /posts/{id}:</strong> Get single post details</li>
   <li><strong>PUT /posts/{id}:</strong> Update existing post</li>
   <li><strong>DELETE /posts/{id}:</strong> Delete post</li>
-</ul>
-
-<h2>Routes</h2>
-<ul>
-  <li><strong>/</strong> - Main posts listing</li>
-  <li><strong>/item/:id</strong> - Individual post details</li>
-  <li><strong>/edit/:id</strong> - Post editing interface</li>
 </ul>
 
 <h2>Contributions</h2>
