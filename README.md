@@ -15,7 +15,7 @@ cd post-app</code></pre>
 <pre><code>npm start</code></pre>
 
 <p>Open in Your Browser:</p>
-<p>Visit <a href="http://localhost:3000](https://oluwafunmike-adeyeye-post-app.netlify.app">http://localhost:3000](https://oluwafunmike-adeyeye-post-app.netlify.app</a> to use the application.</p>
+<p>Visit <a href="https://oluwafunmike-adeyeye-post-app.netlify.app">https://oluwafunmike-adeyeye-post-app.netlify.app</a> to use the application.</p>
 
 <h2>Features</h2>
 <ul>
